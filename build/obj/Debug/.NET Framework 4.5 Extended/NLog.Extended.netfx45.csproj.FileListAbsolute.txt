@@ -1,0 +1,16 @@
+C:\Users\RomanSokolovsky\Desktop\DotNET\NLog-3.0\build\bin\Debug\.NET Framework 4.5\NLog.Extended.xml
+C:\Users\RomanSokolovsky\Desktop\DotNET\NLog-3.0\build\bin\Debug\.NET Framework 4.5\NLog.Extended.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\NLog-3.0\build\bin\Debug\.NET Framework 4.5\NLog.Extended.pdb
+C:\Users\RomanSokolovsky\Desktop\DotNET\NLog-3.0\build\obj\Debug\.NET Framework 4.5 Extended\NLog.Extended.netfx45.csprojAssemblyReference.cache
+C:\Users\RomanSokolovsky\Desktop\DotNET\NLog-3.0\build\obj\Debug\.NET Framework 4.5 Extended\NLog.Extended.netfx45.csproj.CoreCompileInputs.cache
+C:\Users\RomanSokolovsky\Desktop\DotNET\NLog-3.0\build\obj\Debug\.NET Framework 4.5 Extended\NLog.Extended.netfx45.csproj.CopyComplete
+C:\Users\RomanSokolovsky\Desktop\DotNET\NLog-3.0\build\obj\Debug\.NET Framework 4.5 Extended\NLog.Extended.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\NLog-3.0\build\obj\Debug\.NET Framework 4.5 Extended\NLog.Extended.pdb
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\NLog-3.0\build\bin\Debug\.NET Framework 4.5\NLog.Extended.xml
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\NLog-3.0\build\bin\Debug\.NET Framework 4.5\NLog.Extended.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\NLog-3.0\build\bin\Debug\.NET Framework 4.5\NLog.Extended.pdb
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\NLog-3.0\build\obj\Debug\.NET Framework 4.5 Extended\NLog.Extended.netfx45.csprojAssemblyReference.cache
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\NLog-3.0\build\obj\Debug\.NET Framework 4.5 Extended\NLog.Extended.netfx45.csproj.CoreCompileInputs.cache
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\NLog-3.0\build\obj\Debug\.NET Framework 4.5 Extended\NLog.Extended.netfx45.csproj.CopyComplete
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\NLog-3.0\build\obj\Debug\.NET Framework 4.5 Extended\NLog.Extended.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\NLog-3.0\build\obj\Debug\.NET Framework 4.5 Extended\NLog.Extended.pdb

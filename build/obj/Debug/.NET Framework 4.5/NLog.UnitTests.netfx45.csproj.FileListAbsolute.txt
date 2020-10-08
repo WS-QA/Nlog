@@ -1,0 +1,16 @@
+C:\Users\RomanSokolovsky\Desktop\DotNET\NLog-3.0\build\bin\Debug\.NET Framework 4.5\NLog.UnitTests.dll.config
+C:\Users\RomanSokolovsky\Desktop\DotNET\NLog-3.0\build\bin\Debug\.NET Framework 4.5\NLog.UnitTests.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\NLog-3.0\build\bin\Debug\.NET Framework 4.5\NLog.UnitTests.pdb
+C:\Users\RomanSokolovsky\Desktop\DotNET\NLog-3.0\build\obj\Debug\.NET Framework 4.5\NLog.UnitTests.netfx45.csprojAssemblyReference.cache
+C:\Users\RomanSokolovsky\Desktop\DotNET\NLog-3.0\build\obj\Debug\.NET Framework 4.5\NLog.UnitTests.netfx45.csproj.CoreCompileInputs.cache
+C:\Users\RomanSokolovsky\Desktop\DotNET\NLog-3.0\build\obj\Debug\.NET Framework 4.5\NLog.UnitTests.netfx45.csproj.CopyComplete
+C:\Users\RomanSokolovsky\Desktop\DotNET\NLog-3.0\build\obj\Debug\.NET Framework 4.5\NLog.UnitTests.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\NLog-3.0\build\obj\Debug\.NET Framework 4.5\NLog.UnitTests.pdb
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\NLog-3.0\build\bin\Debug\.NET Framework 4.5\NLog.UnitTests.dll.config
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\NLog-3.0\build\bin\Debug\.NET Framework 4.5\NLog.UnitTests.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\NLog-3.0\build\bin\Debug\.NET Framework 4.5\NLog.UnitTests.pdb
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\NLog-3.0\build\obj\Debug\.NET Framework 4.5\NLog.UnitTests.netfx45.csprojAssemblyReference.cache
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\NLog-3.0\build\obj\Debug\.NET Framework 4.5\NLog.UnitTests.netfx45.csproj.CoreCompileInputs.cache
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\NLog-3.0\build\obj\Debug\.NET Framework 4.5\NLog.UnitTests.netfx45.csproj.CopyComplete
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\NLog-3.0\build\obj\Debug\.NET Framework 4.5\NLog.UnitTests.dll
+C:\Users\RomanSokolovsky\Desktop\DotNET\WSE-4739\NLog-3.0\build\obj\Debug\.NET Framework 4.5\NLog.UnitTests.pdb
