@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "dependencies": {
+    ".NETFramework,Version=v4.5": {
+      "System.IO.Abstractions": {
+        "type": "Direct",
+        "requested": "[1.4.0.32, 1.4.0.32]",
+        "resolved": "1.4.0.32",
+        "contentHash": "5QdSnciwoFlHz+Bk9UVwpWNEm0+PcxPpLI25iGQ3svxZ8mMupJGC/iTQ1TQJppZu7J54K/S+PdKCH/rIHHMCYA=="
+      },
+      "SharpCompress": {
+        "type": "Direct",
+        "requested": "[0.20.0, 0.20.0]",
+        "resolved": "0.20.0",
+        "contentHash": "54YhqiEQUeorjtfwbhRpnMEU2sIgSxpk30a74eHK1qF86BJXys49IHGH0nd5xXpeARQ84G8Cf9jpMgKB5iDDuQ=="
+      }
+    }
+  }
+}

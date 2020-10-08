@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "dependencies": {
+    "Any,Version=v0.0": {
+      "StatLight": {
+        "type": "Direct",
+        "requested": "[1.6.4375, 1.6.4375]",
+        "resolved": "1.6.4375",
+        "contentHash": "jpSRJnGi8ulSvqxjhby/hmbPILD9KTJl9MHYBH6sAazxdSQLOQiFCMGsvsC71wiweNQ8arai9jw8J6MQORU50w=="
+      }
+    }
+  }
+}

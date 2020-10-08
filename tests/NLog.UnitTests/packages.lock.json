@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "dependencies": {
+    "Any,Version=v0.0": {
+      "xunit": {
+        "type": "Direct",
+        "requested": "[1.9.1, 1.9.1]",
+        "resolved": "1.9.1",
+        "contentHash": "2WGRT1V01V/h2WalziNlC0Pd0rCCrjeFJk+X6E6VkVaVh5AkCJkYM+eGSfetuAIqnF2nwBbY+vkAfT8HV3QPVA=="
+      },
+      "xunit.extensions": {
+        "type": "Direct",
+        "requested": "[1.9.1, 1.9.1]",
+        "resolved": "1.9.1",
+        "contentHash": "VCiffhHnAxD/rRwGw7WGpqmF/nPI/BV4DhO7+iRyWhFAUeeP8KHKWZgEO1EnsvxvDH7eO63VjdsE3gqu3SI9zg=="
+      },
+      "xunit.runners": {
+        "type": "Direct",
+        "requested": "[1.9.2, 1.9.2]",
+        "resolved": "1.9.2",
+        "contentHash": "XX/oLeuCqmXeMauS9NlyCkfBTUw+yzkuM8nhXcwAWAeQHZB3iNocIQ1UBy0G2oJW6ReBcN3YHZq8mab1qOuAyg=="
+      },
+      "StatLight": {
+        "type": "Direct",
+        "requested": "[1.6.4375, 1.6.4375]",
+        "resolved": "1.6.4375",
+        "contentHash": "jpSRJnGi8ulSvqxjhby/hmbPILD9KTJl9MHYBH6sAazxdSQLOQiFCMGsvsC71wiweNQ8arai9jw8J6MQORU50w=="
+      }
+    }
+  }
+}
